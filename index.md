@@ -5,25 +5,26 @@ Writer. Researcher. Essays and Journalism on politics, culture, power.
 
 ## Selected Reporting, Essays, and Investigations
 
-- A reported feature for Al Jazeera on transitional justice in The Gambia, examining how the country’s reconciliation process seeks to address abuses committed under former president Yahya Jammeh, reported in The Gambia ([reporting](https://www.aljazeera.com/news/2019/1/8/gambia-reconciliation-process-to-look-into-former-leaders-abuses)).
+- A [reported](https://www.aljazeera.com/news/2019/1/8/gambia-reconciliation-process-to-look-into-former-leaders-abuses) piece on transitional justice in The Gambia, examining how the country’s reconciliation process seeks to address abuses committed under former president Yahya Jammeh. Al Jazeera.
 
-- A reported piece for Al Jazeera on Indigenous resistance, racism, and contested Columbus Day commemorations, focusing on how Indigenous groups in Chile challenge discrimination and exclusion, reported in Chile ([reporting](https://www.aljazeera.com/news/2019/10/13/chiles-indigenous-groups-decry-discrimination-on-columbus-day)).
+- A [reported](https://www.aljazeera.com/news/2019/10/13/chiles-indigenous-groups-decry-discrimination-on-columbus-day) piece on Indigenous resistance, racism, and contested Columbus Day commemorations in Chile, focusing on how Indigenous groups challenge discrimination and exclusion. Al Jazeera.
 
-- A cultural report for Al Jazeera on Senegal’s Museum of Black Civilisations, analysing the politics of decolonising knowledge and heritage in a postcolonial context, reported in Senegal ([reporting](https://www.aljazeera.com/features/2018/12/5/museum-of-black-civilisations-aims-to-decolonise-knowledge)).
+- A cultural [report](https://www.aljazeera.com/features/2018/12/5/museum-of-black-civilisations-aims-to-decolonise-knowledge) on Senegal’s Museum of Black Civilisations, analysing the politics of decolonising knowledge and heritage in a postcolonial context. Al Jazeera.
 
-- A first-person essay for the Guardian on being targeted by immigration enforcement as a foreign, Black, pro-Palestinian activist, reflecting on surveillance, repression, and forced departure in the United States ([essay](https://www.theguardian.com/commentisfree/2025/oct/05/palestinian-foreigners-protests-campus-ai-ice-trump-us-migrant)).
+- A first-person [essay](https://www.theguardian.com/commentisfree/2025/oct/05/palestinian-foreigners-protests-campus-ai-ice-trump-us-migrant) on being targeted by immigration enforcement as a foreign, Black, pro-Palestinian activist, reflecting on surveillance, repression, and forced departure in the United States. The Guardian.
 
-- An essay for the Guardian on race, accent, belonging, and shifting meanings of Black British identity within elite academia, grounded in experience at an Ivy League university in the United States and United Kingdom ([essay](https://www.theguardian.com/commentisfree/2022/jan/10/black-british-ivy-league-university-london-accent)).
+- An [essay](https://www.theguardian.com/commentisfree/2022/jan/10/black-british-ivy-league-university-london-accent) on race, accent, belonging, and shifting meanings of Black British identity within elite academia, grounded in experience at an Ivy League university in the United States and United Kingdom. The Guardian.
 
-- A reported literary essay for Small Axe (SX Salon) on disaster, aftermath, and everyday life following Hurricane Beryl on Union Island in Saint Vincent and the Grenadines, combining reportage with reflective narrative ([essay](https://smallaxe.net/sxsalon/discussions/union-island-after-beryl)).
+- A reported literary [essay](https://smallaxe.net/sxsalon/discussions/union-island-after-beryl) on disaster, aftermath, and everyday life following Hurricane Beryl on Union Island, Saint Vincent and the Grenadines. Small Axe (SX Salon).
 
-- An investigative report for Middle East Eye on how the UK security state facilitated British-Libyans travelling to fight Muammar Gaddafi, exposing covert state practices linking the United Kingdom and Libya ([investigation](https://www.middleeasteye.net/news/sorted-mi5-how-uk-government-sent-british-libyans-fight-gaddafi)).
+- An [investigation](https://www.middleeasteye.net/news/sorted-mi5-how-uk-government-sent-british-libyans-fight-gaddafi) into how the UK security state facilitated British-Libyans travelling to fight Muammar Gaddafi, exposing covert state practices linking the United Kingdom and Libya. Middle East Eye.
 
-- A long-form investigation for Middle East Eye tracing Trinidadian foreign-fighter routes to ISIS and the social worlds that produced them, situating militancy within local histories in Trinidad and the Caribbean and transnational conflict zones in Syria and Iraq ([investigation](https://www.middleeasteye.net/big-story/caribbean-caliphate-trail-trinidadians-fighting-islamic-state)).
+- A long-form [investigation](https://www.middleeasteye.net/big-story/caribbean-caliphate-trail-trinidadians-fighting-islamic-state) tracing Trinidadian foreign-fighter routes to ISIS and the social worlds that produced them, situating militancy within local histories in Trinidad and the Caribbean and transnational conflict zones in Syria and Iraq. Middle East Eye.
 
-- A feature for Al Jazeera on radical decolonisation in literary studies, engaging the intellectual project of Ngũgĩ wa Thiong’o and its implications for global academic institutions ([feature](https://www.aljazeera.com/features/2020/10/8/rewrite-the-english-department-lessons-in-radical-decolonisation)).
+- A [feature](https://www.aljazeera.com/features/2020/10/8/rewrite-the-english-department-lessons-in-radical-decolonisation) on radical decolonisation in literary studies, engaging the intellectual project of Ngũgĩ wa Thiong’o and its implications for global academic institutions. Al Jazeera.
 
-- An accountability report for Al Jazeera on civilian harm and demands for justice following a French air strike, foregrounding local testimony and calls for truth in Mali ([reporting](https://www.aljazeera.com/author/amandla_thomas_johnson_180926192326582)).
+- An accountability [report](https://www.aljazeera.com/author/amandla_thomas_johnson_180926192326582) on civilian harm and demands for justice following a French air strike in Mali, foregrounding local testimony and calls for truth. Al Jazeera.
+
 
 
 ## About
