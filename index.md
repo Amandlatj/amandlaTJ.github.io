@@ -1,13 +1,15 @@
 # Amandla Thomas-Johnson
 
-Writer. Researcher. Essays and Journalism on politics, culture, power.
+Amandla Thomas-Johnson is a journalist and PhD candidate at Cornell University working on empire, race, global Blackness, and Islam. He has reported across West Africa, Europe, the Caribbean, and South America, with work appearing in The Guardian, Al Jazeera, Middle East Eye, The Daily Telegraph, Vice, and BBC Radio 4.
+
+His academic writing has appeared in Small Axe and Interviewing the Caribbean. He is the author of Becoming Kwame Ture (Chimurenga, 2020), a study of the African years of the activist formerly known as Stokely Carmichael.
 
 
 ## Selected Reporting, Essays, and Investigations
 
-- A first-person [essay](https://www.theguardian.com/commentisfree/2025/oct/05/palestinian-foreigners-protests-campus-ai-ice-trump-us-migrant) on being targeted by immigration enforcement as a foreign, Black, pro-Palestinian activist, reflecting on surveillance, repression, and forced departure in the United States for the Guardian.
+- A [column](https://www.theguardian.com/commentisfree/2025/oct/05/palestinian-foreigners-protests-campus-ai-ice-trump-us-migrant) on being targeted by immigration enforcement as a foreign, Black, pro-Palestinian activist for the Guardian.
 
-- A reported literary [essay](https://smallaxe.net/sxsalon/discussions/union-island-after-beryl) on disaster, aftermath, and everyday life following Hurricane Beryl on Union Island, Saint Vincent and the Grenadines for Small Axe (SX Salon).
+- An [essay](https://smallaxe.net/sxsalon/discussions/union-island-after-beryl) on the aftermath of Hurricane Beryl on Union Island, my ancestral island in Saint Vincent and the Grenadines for Small Axe (SX Salon).
 
 - An [essay](https://www.theguardian.com/commentisfree/2022/jan/10/black-british-ivy-league-university-london-accent) on race, accent, belonging, and shifting meanings of Black British identity within elite academia, grounded in experience at an Ivy League university in the United States and United Kingdom for the Guardian.
 
